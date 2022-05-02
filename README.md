@@ -1,6 +1,6 @@
  <h1><b><i>C_Programming</i></b><img src="https://i.imgur.com/BKfhFJC.png" height=40px></h1> 
  <br>
-<img src="https://i.imgur.com/50StB3D.gif" >
+<img src="https://i.imgur.com/wZ2fx8S.gif" height=4px width=20%><img src="https://i.imgur.com/50StB3D.gif" > <img src="https://i.imgur.com/wZ2fx8S.gif" height=4px width=20%>
 <img src="https://i.imgur.com/wZ2fx8S.gif" height=4px width=100%>
 <br><b>
 C programming language was developed in 1972 by Dennis Ritchie at bell laboratories of AT&T (American Telephone & Telegraph), located in the U.S.A. Dennis Ritchie is known as the founder of the c language. It was developed to overcome the problems of previous languages such as B, BCPL, etc.<br><br>
