@@ -316,7 +316,7 @@ This repo has divided into three main categories that covers:-
 |4. **[malloc_realloc.c:](Challanges/Practice_Set_11_Dynamic_Memory_Allocation/malloc_realloc.c)**| Write a Program, Create an array dynamically capable of storing 5 integers. Now use realloc so it can now store 1o Integers.|
 <br>
 
-# Projects <img src="https://i.imgur.com/nKZNdK7.gif" height=35px>
+# Projects <img src="https://i.imgur.com/YrWRDpC.gif" height=35px>
 
 | Programs                                           |Discription                             |
 |----------------------------------------------------|----------------------------------------|
