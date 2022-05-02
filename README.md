@@ -1,6 +1,6 @@
  <h1><b><i>C_Programming</i></b><img src="https://i.imgur.com/BKfhFJC.png" height=40px></h1> 
  <br>
-<img src="https://i.imgur.com/50StB3D.gif" height=300px width=50% style="margin-left:200px;">
+<img src="https://i.imgur.com/50StB3D.gif" >
 <img src="https://i.imgur.com/wZ2fx8S.gif" height=4px width=100%>
 <br><b>
 C programming language was developed in 1972 by Dennis Ritchie at bell laboratories of AT&T (American Telephone & Telegraph), located in the U.S.A. Dennis Ritchie is known as the founder of the c language. It was developed to overcome the problems of previous languages such as B, BCPL, etc.<br><br>
@@ -19,13 +19,13 @@ This repo has divided into three main categories that covers:-
 
 # Our Discord's! <img src="https://i.imgur.com/YrfDw86.gif" height=50px>
 
-<img src="https://i.imgur.com/wZ2fx8S.gif" height=5px width=30%>
+<img src="https://i.imgur.com/wZ2fx8S.gif" height=5px width=50%>
 
 **[<h2>Join us at (HackerSpace)](https://discord.gg/5PNFxQF2nz)** <img src="https://i.imgur.com/9TC5djL.gif" height=40px>
 
 **[<h2>Join us at (h̲a̲c̲k̲e̲r̲s̲ ̲s̲e̲r̲v̲e̲r̲)](https://discord.gg/5uZjRKHmJQ)** <img src="https://i.imgur.com/ZvJVrUo.gif" height=40px>
 
-<img src="https://i.imgur.com/wZ2fx8S.gif" height=5px width=30%>
+<img src="https://i.imgur.com/wZ2fx8S.gif" height=5px width=50%>
 </b>
 <br>
 
