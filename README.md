@@ -8,6 +8,8 @@ This repository is the collection of C Programs that has been done While Learnin
 
 This repo has divided into three main categories that covers:-
 
+<h2><b>NOTE<b>:- All the Notes are Included inside the Programs. </h2>
+
 1. <u>Learning Sections</u>:- This section have 11 categories contaning all the programs that will help you to understand all the Basic as well as Advance Concepts of C programming. <br>
 
 2. <u>Challenges</u>:- This Section Contains 11 Practice Sets which is Depend on all the 11 Learning sections. You may have a look on it.<br>
