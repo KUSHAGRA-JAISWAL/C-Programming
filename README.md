@@ -1,4 +1,4 @@
- <h1><b><i>C_Programming</i></b><img src="https://i.imgur.com/BKfhFJC.png" height=40px></h1> 
+ <h1><b><i>C_Programming with kush</i></b><img src="https://i.imgur.com/BKfhFJC.png" height=40px></h1> 
  <br>
 <img src="https://i.imgur.com/50StB3D.gif" > 
 <img src="https://i.imgur.com/wZ2fx8S.gif" height=4px width=100%>
