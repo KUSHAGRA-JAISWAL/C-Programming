@@ -6,7 +6,7 @@
 C programming language was developed in 1972 by Dennis Ritchie at bell laboratories of AT&T (American Telephone & Telegraph), located in the U.S.A. Dennis Ritchie is known as the founder of the c language. It was developed to overcome the problems of previous languages such as B, BCPL, etc.<br><br>
 This repository is the collection of C Programs that has been done While Learning C as well as the collection of the program that were done while solving heavy Challenges. 
 
-<h2><b>NOTE<b>:- All the Notes are Included inside the Programs. </h2>
+<h2><b>NOTE<b>:- All the Notes are Included inside the Programs </h2>
 
 This repo has divided into three main categories that covers:-
 
